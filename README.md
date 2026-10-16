@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **Moved.** NdgCrown now lives in the [thisisths/eso-addons](https://github.com/thisisths/eso-addons/tree/main/NdgCrown) monorepo (folder `NdgCrown/`), together with my other ESO addons. This repository is archived; new releases are published [there](https://github.com/thisisths/eso-addons/releases).
+
 # NdgCrown
 
 An Elder Scrolls Online addon that shows a tall 3D beam, a direction arrow next to your reticle and/or a range ring on the ground for the **group leader** ("the crown") and for units carrying **base-game target marks** — find your raid lead at a glance.
